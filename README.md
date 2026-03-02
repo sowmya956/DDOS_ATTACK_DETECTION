@@ -1,4 +1,4 @@
-## #SentinelNet: AI-Powered Network Intrusion Detection System (NIDS)
+## # SentinelNet: AI-Powered Network Intrusion Detection System (NIDS)
 # Problem Statement
 The goal of this project is to develop an AI-powered Network Intrusion Detection System (NIDS) capable of
 identifying malicious network trafic and cyber-attacks in real time. By leveraging machine learning techniques, the
